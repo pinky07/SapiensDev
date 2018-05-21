@@ -1,0 +1,9 @@
+com\jackrutorial\config\WebInitializer.class
+com\jackrutorial\model\Customer.class
+com\jackrutorial\dao\CustomerDao.class
+com\jackrutorial\service\CustomerServiceImpl.class
+com\jackrutorial\dao\CustomerDaoImpl.class
+com\jackrutorial\config\HibernateConfig.class
+com\jackrutorial\controller\CustomerController.class
+com\jackrutorial\service\CustomerService.class
+com\jackrutorial\config\WebConfig.class
